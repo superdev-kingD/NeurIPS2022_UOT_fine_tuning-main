@@ -1,5 +1,5 @@
 # NeurIPS2022_UOT_fine_tuning
-Official code for "[Improved Fine-Tuning by Better Leveraging Pre-Training Data](https://openreview.net/pdf?id=YTXIIc7cAQ)", NeurIPS 2022
+Official code for "[Improved Fine-Tuning by Better Leveraging Pre-Training Data]", NeurIPS 2022
 
 ## Requirement
 PyTorch >= 1.9.0
